@@ -1,4 +1,4 @@
-## 👋 Olá, me chamo Roberto Diniz
+## 👋 Olá, me chamo Roberto Filho
 
 - Estou estudando Engenharia da Computação no INTELI
 
