@@ -1,6 +1,6 @@
-## 👋 Olá, me chamo Roberto Filho
+## 👋 Hi, my name is Roberto Filho
 
-- Estou estudando Engenharia da Computação no INTELI
+- Studying Computer Engineering at [Inteli](https://www.inteli.edu.br/)
 
  <div>
   <a href="https://github.com/robertof1lho">
