@@ -1,4 +1,4 @@
-## 👋 Hi, my name is Roberto Filho
+## 👋 Hi, my name is Roberto Diniz Branco Filho
 
 - 🎓 Studying Computer Engineering at [Inteli](https://www.inteli.edu.br/) – Class of 2027
 
