@@ -1,8 +1,9 @@
 ## 👋 Hi, my name is Roberto Diniz Branco Filho
 
-- 🎓 Studying Computer Engineering at [Inteli](https://www.inteli.edu.br/) – Class of 2027
+ 🎓 Computer Engineering at [Inteli](https://www.inteli.edu.br/) – Class of 2027
 
 <div align="center">
+  <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=robertof1lho&theme=ocean_dark&hide_border=false" />
 </div>
 
