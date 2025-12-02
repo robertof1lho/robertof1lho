@@ -2,12 +2,13 @@
 
 - 🎓 Studying Computer Engineering at [Inteli](https://www.inteli.edu.br/) – Class of 2027
 
-![](https://github-readme-stats.vercel.app/api?username=robertof1lho&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=robertof1lho&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertof1lho&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=robertof1lho&theme=ocean_dark&hide_border=false" />
+</div>
+
 ##
 
-<div>
+<div align="center">
   <a href="mailto:roberto.dbf1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
